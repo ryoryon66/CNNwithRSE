@@ -33,3 +33,7 @@ modelは無対策のモデル、rsemodel:ensemble{n}はNoise Layerの影響で�
 
 - model3.pth 無対策モデル
 - rsemodel3.pth RSEを導入したモデル
+
+kaggleのnotebookでGPU P100を用いて40分ぐらいで実行が終わった。過学習しているのでもっと削った方がいいとは思う。
+
+
