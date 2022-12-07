@@ -8,7 +8,7 @@
 
 ## 結果
 
-そもそものモデルの精度がよろしくない。
+~~そもそものモデルの精度がよろしくないがさぼりました~~
 
 ![output](https://user-images.githubusercontent.com/46624038/206204959-d2cf2e84-9959-4a83-8971-270ca383ac0c.png)
 
