@@ -2,7 +2,7 @@
 
 ## これは何?
 
-[Towards Robust Neural Networks via Random Self-ensemble](https://arxiv.org/abs/1712.00673)をFGSMについて簡単に実装したもの。
+[Towards Robust Neural Networks via Random Self-ensemble](https://arxiv.org/abs/1712.00673)をFGSMについて簡単に実装したもの。もともとの論文ではC&W攻撃に対する防御性能を測定していることや使っているモデルなどが違う。
 
 学習に用いたデータはCIHAR-10で,適当につくったCNNへの非標的型攻撃について検証した。
 
